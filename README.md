@@ -191,9 +191,8 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
-**Schwerpunkte:**
 - 🌐 Web-Development (Backend, Frontend, Database)
-- 🛠️ Plugin-Entwicklung für Shopware 6
+- 🛠️ Plugin-Entwicklung für Shopware 6 
 
 ## 🔧 Aktuelle Projekte
 
