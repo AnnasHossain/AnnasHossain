@@ -83,30 +83,14 @@
 <i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
-  <a href="https://github.com/trinib?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a>
-<a href="https://github.com/trinib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=trinib&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/annas/annas/snake/github-snake-dark.svg" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnasHossain&bg_color=000000&color=00f900&line=00f900&point=942192&area=true&hide_border=true" width="100%">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
