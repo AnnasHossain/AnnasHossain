@@ -14,11 +14,7 @@
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
-
-<!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
-
+ 
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -165,8 +161,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <p align="center">
 - 🌐 Web-Development (Backend, Frontend, Database)
 - 🛠️ Plugin-Entwicklung für Shopware 6 
-
-## 🔧 Aktuelle Projekte
+ 🔧 Aktuelle Projekte
 
 - 📚 PHP-Lernprojekte zur Software Development-Vertiefung
 - 🕌 Vereinswebseite für „Baitul Mukarram Masjid Berlin e.V.“
