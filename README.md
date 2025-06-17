@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
  
 <p align="center">
-<img src="https://c.tenor.com/APOmFMmvDBkAAAAd/tenor.gif" height="370" width="370">
+<img src="https://c.tenor.com/APOmFMmvDBkAAAAd/tenor.gif" height="350" width="370">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -49,15 +49,7 @@
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
-<p align="center">
-
-<b>FUN FACT EVERYDAY🤔 :</b>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
+ 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -141,6 +133,8 @@
 - 🌐 Web-Development (Backend, Frontend, Database)
 - 🛠️ Plugin-Entwicklung für Shopware 6 
  🔧 Aktuelle Projekte
+
+ ### Current Projects <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60>
 
 - 📚 PHP-Lernprojekte zur Software Development-Vertiefung
 - 🕌 Vereinswebseite für „Baitul Mukarram Masjid Berlin e.V.“
