@@ -134,8 +134,6 @@
 - 🛠️ Plugin-Entwicklung für Shopware 6 
  🔧 Aktuelle Projekte
 
- ### Current Projects <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60>
-
 - 📚 PHP-Lernprojekte zur Software Development-Vertiefung
 - 🕌 Vereinswebseite für „Baitul Mukarram Masjid Berlin e.V.“
 - 🧩 Eigenes Plugin für Shopware 6
