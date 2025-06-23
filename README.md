@@ -132,8 +132,8 @@
 <p align="center">
 - 🌐 Web-Development (Backend, Frontend, Database)
 - 🛠️ Plugin-Entwicklung für Shopware 6 
- 🔧 Aktuelle Projekte
 
+# 🔧 Aktuelle Projekte
 - 📚 PHP-Lernprojekte zur Software Development-Vertiefung
 - 🕌 Vereinswebseite für „Baitul Mukarram Masjid Berlin e.V.“
 - 🧩 Eigenes Plugin für Shopware 6
