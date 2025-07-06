@@ -4,17 +4,6 @@
  
 <p align="center">
 <img src="https://c.tenor.com/APOmFMmvDBkAAAAd/tenor.gif" height="350" width="370">
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
