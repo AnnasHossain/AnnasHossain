@@ -56,13 +56,6 @@
 <p align="center">
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=AnnasHossain&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnnasHossain&color=0E9C47&style=for-the-badge">
-
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnasHossain&bg_color=000000&color=00f900&line=00f900&point=942192&area=true&hide_border=true" width="100%">
-
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
