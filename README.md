@@ -34,6 +34,6 @@
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
 
 <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/Subreddit-Memes -->
-<p align="center">
-<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
+<!-- <p align="center">
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/> -->
 </h4>
