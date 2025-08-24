@@ -4,10 +4,6 @@
 <p align="center">
 <img src="https://i.pinimg.com/originals/72/7e/1e/727e1e04dd7530a235df0c3b05a8a357.gif" height="250" width="370">
 
-<!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
-
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center">
 <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">
