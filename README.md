@@ -8,12 +8,6 @@
 <p align="center">
 <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">
  
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=AnnasHossain&theme=merko&layout=compact&border_color=599200&langs_count=6">
 <!--
 💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ 
 <p align="center">
